@@ -1,0 +1,40 @@
+[v1]
+
+1. Multirotor:
+    HeavyLifter Archs: circa 200-400 W/kg (hover gets circa 30%-40% of that)
+    Burstable Archs: circa 500-1000 W/kg (hover get circa 10%-15% of that)
+
+2. Nuclear Power Source (Pu-238 | Sr-90 | Po-210):
+    Pu-238 mais promissor
+        Power Output: circa 560 W/kg
+        Halflife: 87.7 anos
+        Decay: purely alpha (no beta or neutron decay)
+        Risks: mostly internal
+    Po-210 muito perigoso
+        Power Output: circa 140 kW/kg
+        Halflife: 138 days
+        Decay: alpha
+        Risk: external gamma negligeable but huge internal risk due to tendency to produce powders and vapours
+    Sr-90 segunda opcao
+        Power Output: 930 W/kg
+        Halflife: 28.8 anos
+        Decay: beta
+        Risk: skin close-in due to beta particles
+
+WARNING: DON'T FORGET THAT IMPURITIES MAY COMPLETELY WORSEN RISK PROFILE
+
+3. Electric Engines & Instrumentation:
+    LiPo
+        High-rate
+        Continuous circa 2-6 kW/kg
+        Burst circa 6-15 kW/kg
+        Energy density circa 120-200 Wh/kg
+    Li-ion
+        18650/21700 long-range packs
+        Continuous circa 0.8-2.5 kW/kg
+        Burst circa 3-6 kW/kg
+        Energy density circa 200-260 Wh/kg
+
+
+
+
